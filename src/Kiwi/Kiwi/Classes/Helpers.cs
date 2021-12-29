@@ -187,7 +187,6 @@ namespace Kiwi.Classes {
                     FBD.RootFolder = Environment.SpecialFolder.Desktop;
                     FBD.Description = "Select the folder which contains the font files (.wpf_font) that were extracted using 'HaloInfiniteModuleUnpacker'. See 'help' for details.";
                     FBD.ShowNewFolderButton = false;
-                    FBD.SelectedPath = @"E:\Games\Halo Infinite\Dump\ui\wpf\fonttags";
                     if (FBD.ShowDialog() != DialogResult.OK) {
                         Console.WriteLine();
                         ConsoleHelpers.Info($"Extracting resources...Canceled!");
