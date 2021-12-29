@@ -97,9 +97,9 @@ namespace Kiwi.Classes {
         }
         public static void GithubCommand() {
             Console.WriteLine();
-            ConsoleHelpers.Info($"Opening 'https://github.com/Twigzie/Fantality-Halo-Mohawk'...");
+            ConsoleHelpers.Info($"Opening 'https://github.com/Twigzie/Fantality-Infinite-Kiwi'...");
             Console.WriteLine();
-            Process.Start("https://github.com/Twigzie/Fantality-Halo-Mohawk");
+            Process.Start("https://github.com/Twigzie/Fantality-Infinite-Kiwi");
         }
         public static void BrowseCommand() {
             try {
