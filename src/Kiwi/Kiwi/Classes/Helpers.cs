@@ -10,8 +10,6 @@ using Kiwi.Classes.Updates;
 
 namespace Kiwi.Classes {
 
-    internal class Font { }
-
     internal static class FileHelpers {
 
         public static List<string> GetFontsFromPath(string path) {
