@@ -59,7 +59,7 @@ namespace Kiwi.Classes {
             Console.WriteLine($"\t> Updates");
             Console.WriteLine();
             Console.WriteLine($"\t\t> Command: update");
-            Console.WriteLine($"\t\t> Description: Checks for updates via 'https://github.com/Twigzie/Fantality-Halo-Mohawk/releases'");
+            Console.WriteLine($"\t\t> Description: Checks for updates via 'https://github.com/Twigzie/Fantality-Infinite-Kiwi/releases'");
             Console.WriteLine();
             Console.WriteLine($"\t> Browse:");
             Console.WriteLine();
